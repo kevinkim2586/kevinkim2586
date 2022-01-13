@@ -1,6 +1,6 @@
 <a href = "https://velog.io/@kevinkim2586"><img src="https://img.shields.io/badge/Blog-0ABF53?style=flat-square&logo=Apache Maven&logoColor=white"/></a> <img src="https://img.shields.io/badge/kevinkim2586@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-### 👋 Hi there  I’m a **Junior iOS Developer**.
+### 👋 Hi there,  I’m a **Junior iOS Developer**.
 
 I enjoy programming while having a cup of coffee. ☕️
 
