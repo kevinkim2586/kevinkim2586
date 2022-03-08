@@ -2,7 +2,7 @@
 
 ### 👋 Hi there,  I’m a **Junior iOS Developer**.
 
-I enjoy programming while having a cup of coffee. ☕️
+I enjoy programming while having a cup of coffee in the afternoon. ☕️
 
 I started mobile app development to bring meaningful impact to people. 🌎
 
