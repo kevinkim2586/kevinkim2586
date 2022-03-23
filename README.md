@@ -6,6 +6,8 @@ I enjoy programming while having a cup of coffee in the afternoon. ☕️
 
 I started mobile app development to bring meaningful impact to people. 🌎
 
+Big interest in Design Patterns and Refactoring. Expereinced MVC, MVVM and ReactorKit. ⚙️
+
 ### 🛠 Skills
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
