@@ -6,7 +6,7 @@ I enjoy programming while having a cup of coffee in the afternoon. ☕️
 
 I started mobile app development to bring meaningful impact to people. 🌎
 
-Big interest in Design Patterns and Refactoring. Expereinced MVC, MVVM and ReactorKit. ⚙️
+Big interest in Design Patterns and Refactoring. Experienced MVC, MVVM and ReactorKit. ⚙️
 
 ### 🛠 Skills
 
