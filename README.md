@@ -8,10 +8,15 @@ I started mobile app development to bring meaningful impact to people. 🌎
 
 Big interest in Design Patterns and Refactoring. Experienced MVVM, ReactorKit, and Combine ⚙️
 
-✼ I'm currently working as an iOS Developer at **HYBE, Weverse Company**.
+A Big fan of the Kpop Industry as well. 🎤
 
-WEVERSE APP:
-https://apps.apple.com/us/app/weverse/id1456559188
+✼ I'm currently working as an iOS Developer at **HYBE Entertainment, Weverse Company**.
+
+**HYBE Wesbite: https://hybecorp.com/eng/main**
+
+**WEVERSE APP: https://apps.apple.com/us/app/weverse/id1456559188**
+
+
 
 ### 🛠 Skills
 
