@@ -10,7 +10,7 @@ Big interest in Design Patterns and Refactoring. Experienced MVVM, ReactorKit, a
 
 A Big fan of the Kpop Industry as well. 🎤
 
-✼ I'm currently working as an iOS Developer at **HYBE Entertainment, Weverse Company**, developing Weverse, connecting **10 million active users** with their favorite artists, such as BTS, BLACKPINK, LE SSERAFIM, and NewJeans.
+✼ I'm currently working as an iOS Developer at **HYBE Entertainment, Weverse Company**, developing Weverse, connecting **100 million users** with their favorite artists, such as BTS, BLACKPINK, LE SSERAFIM, and NewJeans.
 
 **HYBE Wesbite: https://hybecorp.com/eng/main**
 
